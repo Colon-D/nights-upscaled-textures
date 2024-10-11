@@ -1,0 +1,35 @@
+{
+  "ModId": "nights.test.upscaledtextures",
+  "ModName": "Upscaled Textures",
+  "ModAuthor": "Lily",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Brand New Dreams textures upscaled using the 4x HDCube3 upscaling model",
+  "ModDll": "",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "nights.test.upscaledtextures.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "Colon-D",
+      "RepositoryName": "nights-upscaled-textures",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "nights.test.hotswap"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "nights.exe"
+  ],
+  "ProjectUrl": ""
+}
